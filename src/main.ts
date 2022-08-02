@@ -6,7 +6,8 @@ import { setupCounter } from './counter'
 // import {pokemons} from './bases/02-objects'
 // import {pikachu} from './bases/03-classes'
 // import { charmander } from './bases/04-injection';
-import {charmander} from './bases/05-decorators';
+// import {charmander} from './bases/05-decorators';
+import {charmander} from './bases/06-decorators';
 
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
